@@ -1,0 +1,14 @@
+sudo docker exec -t testnarayanamarketing /bin/bash ''./opt/odoo/odoo.sh  testnrymarketing 15.0.2.18''
+
+
+this command is used to execute the modules on backend.
+
+3swell$harm$Oily6
+
+PROD DB Backup  
+
+    res = self._obj.execute(query, params)
+
+    res = self._obj.execute(query, params)
+
+/opt/odoo/odoo-bin --addons-path /opt/odoo/extra-addons,/usr/lib/python3/dist-packages/odoo/addons -u all
